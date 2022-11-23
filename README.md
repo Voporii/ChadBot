@@ -38,15 +38,6 @@
 
   <p align="center">
     
-    <br />
-    <a href="https://github.com/Voporii/ChadBot"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/Voporii/ChadBot">View Demo</a>
-    ·
-    <a href="https://github.com/Voporiie/ChadBot/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/Voporii/ChadBot/issues">Request Feature</a>
   </p>
 </div>
 
