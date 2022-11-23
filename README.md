@@ -107,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Join the ChadBot Support Discord
+1. Visit https://chadbot.dev/
 2. Clone the repo
    ```sh
    git clone https://github.com/Voporii/ChadBot.git
@@ -133,10 +133,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Moderation Features
+- [ ] Twitch & Other APIs
+- [ ] Economy System
+    - [ ] Reputation Based Features
 
 See the [open issues](https://github.com/Voporii/ChadBot/issues) for a full list of proposed features (and known issues).
 
