@@ -74,9 +74,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+ChadBot is a mutli-purpose Discord support bot. It tries to provide the most intuitive and efficient environment for any support server. The bot's objective is to minimize wasted time and effort of a moderation team and takes the stress off of server owners and community managers alike.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,11 +85,6 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -122,9 +116,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Create file `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+TOKEN = YOURBOTTOKEN
+
+FLUENT_RED = 0xed2027
+ERR_RED = 0xFF0000
+INFO_BLUE = 0x0388fc
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
