@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Voporii/ChadBot">
-    <img src="[images/logo.png](https://chadbot.dev/imgs/WebsiteImage.png)" alt="Logo" width="80" height="80">
+    <img src="https://chadbot.dev/imgs/WebsiteImage.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">ChadBot - Discord Support Bot</h3>
