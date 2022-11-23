@@ -116,9 +116,12 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
-4. Enter your API in `config.js`
+4. Create a new file `.env`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   TOKEN = YOUR_BOT_TOKEN
+   FLUENT_RED = 0xed2027
+   ERR_RED = 0xFF0000
+   INFO_BLUE = 0x0388fc
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
